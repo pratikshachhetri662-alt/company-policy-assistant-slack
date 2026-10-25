@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How long are products covered under warranty?",
+    "expected_policy": "Warranty Policy",
+    "in_scope": true
+  },
+  {
+    "question": "What should employees wear at work?",
+    "expected_policy": "Dress Code Policy",
+    "in_scope": true
+  },
+  {
+    "question": "How often do employees receive performance reviews?",
+    "expected_policy": "Performance Review Policy",
+    "in_scope": true
+  },
+  {
+    "question": "What should I do about harassment at work?",
+    "expected_policy": "Anti-Harassment Policy",
+    "in_scope": true
+  },
+  {
+    "question": "Does the company pay for trips to Mars?",
+    "expected_policy": null,
+    "in_scope": false
+  }
+]
